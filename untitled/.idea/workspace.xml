@@ -2119,7 +2119,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/pyFile/pyHacker/py-hack" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.arp">
     <configuration name="ClassTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -2305,8 +2305,16 @@
       <workItem from="1599050464715" duration="8927000" />
       <workItem from="1599135640778" duration="4006000" />
       <workItem from="1599225244306" duration="3884000" />
-      <workItem from="1599291819972" duration="5442000" />
+      <workItem from="1599291819972" duration="6568000" />
     </task>
+    <task id="LOCAL-00001" summary="本周更新的代码">
+      <created>1599327157344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599327157344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2352,18 +2360,22 @@
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
     <state x="836" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1598529484453" />
-    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2" timestamp="1599327149728">
+    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2" timestamp="1599328286880">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2/53.27.1867.1053@53.27.1867.1053" timestamp="1599327149728" />
-    <state x="1231" y="311" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599293949908">
+    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2/53.27.1867.1053@53.27.1867.1053" timestamp="1599328286880" />
+    <state x="1231" y="311" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599327743931">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="1231" y="311" width="424" height="486" key="FileChooserDialogImpl/53.27.1867.1053@53.27.1867.1053" timestamp="1599293949908" />
+    <state x="1231" y="311" width="424" height="486" key="FileChooserDialogImpl/53.27.1867.1053@53.27.1867.1053" timestamp="1599327743931" />
     <state x="1198" y="402" key="Github.CreateGistDialog" timestamp="1599228693789">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
     <state x="1198" y="402" key="Github.CreateGistDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1599228693789" />
+    <state x="1134" y="379" width="278" height="292" key="Github.ShareDialog" timestamp="1599327955752">
+      <screen x="53" y="27" width="1867" height="1053" />
+    </state>
+    <state x="1134" y="379" width="278" height="292" key="Github.ShareDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1599327955752" />
     <state width="932" height="179" key="GridCell.Tab.0.bottom" timestamp="1599323736804">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
@@ -2396,10 +2408,10 @@
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
     <state width="931" height="282" key="GridCell.Tab.1.right/53.27.1867.1053@53.27.1867.1053" timestamp="1599069174896" />
-    <state x="916" y="139" width="900" height="744" key="SettingsEditor" timestamp="1599228511235">
+    <state x="916" y="139" width="900" height="746" key="SettingsEditor" timestamp="1599327906905">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="916" y="139" width="900" height="744" key="SettingsEditor/53.27.1867.1053@53.27.1867.1053" timestamp="1599228511235" />
+    <state x="916" y="139" width="900" height="746" key="SettingsEditor/53.27.1867.1053@53.27.1867.1053" timestamp="1599327906905" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1598271937752">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
