@@ -2305,7 +2305,7 @@
       <workItem from="1599050464715" duration="8927000" />
       <workItem from="1599135640778" duration="4006000" />
       <workItem from="1599225244306" duration="3884000" />
-      <workItem from="1599291819972" duration="6568000" />
+      <workItem from="1599291819972" duration="7302000" />
     </task>
     <task id="LOCAL-00001" summary="本周更新的代码">
       <created>1599327157344</created>
@@ -2314,7 +2314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599327157344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="本周更新的代码">
+      <created>1599328290353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599328290353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2360,10 +2367,10 @@
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
     <state x="836" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1598529484453" />
-    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2" timestamp="1599328286880">
+    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2" timestamp="1599329287990">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2/53.27.1867.1053@53.27.1867.1053" timestamp="1599328286880" />
+    <state x="195" y="105" width="918" height="809" key="CommitChangelistDialog2/53.27.1867.1053@53.27.1867.1053" timestamp="1599329287990" />
     <state x="1231" y="311" width="424" height="486" key="FileChooserDialogImpl" timestamp="1599327743931">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
