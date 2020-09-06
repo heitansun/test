@@ -1,20 +1,17 @@
-
-
 from scapy.all import *
 import socket
 import fcntl
 import struct
 import optparse
 
+
 def get_arp(ip_address, ifname):
     localip = get_ip_address(ifname)
 
 
-
-
 def get_ip_address(ifname):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-    print(s,'-----test---->')
+    print(s, '-----test---->')
     return socket.inet_ntoa(fcntl.ioctl(
         s.fileno(),
         0x8915,  # SIOCGIFADDR
@@ -31,7 +28,5 @@ if __name__ == "__main__":
         print(parser.usage)
     else:
         print(get_ip_address(ifname))
-
-
 
 # dsasdasd asdad a
